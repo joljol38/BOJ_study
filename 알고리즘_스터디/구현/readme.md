@@ -7,7 +7,7 @@
  [빙고] - https://www.acmicpc.net/problem/2578
  #### 4. 실버 2 - 2477번
  [참외밭] - https://www.acmicpc.net/problem/2477
- #### 5. 골드 5 - 15686번 
+ #### 5. 골드 5 (이코테 실전문제) - 15686번 
  [치킨배달] - https://www.acmicpc.net/problem/15686
  #### 6. 골드 4 - 3190번
  [뱀] - https://www.acmicpc.net/problem/3190
