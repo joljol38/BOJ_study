@@ -1,2 +1,2 @@
 # BOJ_study
-Baekjoon Online Judge study
+Baekjoon Online Judge study 
